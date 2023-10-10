@@ -1,5 +1,9 @@
 class Hello {
+ public static void main(String[] args) {
+
+ }
  public void print() {
-  inb b=2;
+
+  int b=2;
  }
 }
